@@ -1,8 +1,8 @@
-Documentación del Proyecto
-Descripción
+#Documentación del Proyecto
+#Descripción
 Este proyecto es una aplicación web desarrollada con React.js utilizando Vite como herramienta de construcción y Tailwind CSS para estilos. Proporciona una plantilla inicial para crear aplicaciones web modernas con facilidad.
 
-Requisitos Previos
+#Requisitos Previos
 Node.js (preferiblemente versión LTS)
 NPM o Yarn
 Instalación
@@ -39,7 +39,7 @@ Copy code
 yarn dev
 Esto iniciará un servidor de desarrollo y abrirá automáticamente tu navegador predeterminado con la aplicación en ejecución.
 
-Construcción del Proyecto
+#Construcción del Proyecto
 Si deseas construir la aplicación para producción, puedes usar el siguiente comando:
 
 bash
@@ -52,15 +52,17 @@ Copy code
 yarn build
 Este comando generará una carpeta dist que contiene los archivos optimizados listos para ser desplegados en un servidor web.
 
-Características Principales
+#Características Principales
 React.js: Utiliza React.js como el framework de JavaScript para la construcción de la interfaz de usuario.
 Vite: Emplea Vite como herramienta de construcción para un desarrollo rápido y eficiente.
 Tailwind CSS: Utiliza Tailwind CSS como framework de diseño para estilizar la aplicación de manera sencilla y rápida.
 EsLint y Prettier: Configurados para mantener un código limpio y consistente.
-Contribuciones
+
+
+#Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún error, tienes ideas para nuevas características o mejoras, o simplemente deseas contribuir al proyecto, no dudes en abrir un issue o enviar una pull request en GitHub.
 
-Licencia
+#Licencia
 Este proyecto está licenciado bajo Licencia MIT.
 
 
